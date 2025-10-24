@@ -20,7 +20,7 @@ This script streamlines the entire process. An administrator simply fills out a 
 ## Live Demo
 *(Your GIF is now even more important! Show the new columns `OrganizationalUnitPath` and `ManagerEmail` being used, and the welcome email arriving in your inbox.)*
 
-![Demo GIF](link-para-seu-novo-gif-aqui.gif)
+https://github.com/user-attachments/assets/e9f68e43-628f-4778-a842-7c9c00ee1c5f
 
 ## Setup & Installation (5-Minute Setup)
 
